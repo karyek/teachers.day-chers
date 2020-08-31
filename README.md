@@ -34,6 +34,7 @@ silence
 silence...hello??
 y = mx + c
 no working no mark
+.
 
 # Mr Zhao sayings 
 joshua its pinus not ahemmmm
